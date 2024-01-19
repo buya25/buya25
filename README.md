@@ -1,4 +1,4 @@
-	# Hello, I'm Yabs 👋
+# Hello, I'm Yabs 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in web development, Android applications, and desktop applications. I thrive on creating innovative solutions and pushing the boundaries of technology.
 

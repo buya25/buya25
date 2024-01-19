@@ -12,15 +12,41 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 💼 Skills
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Java, Kotlin, Python.
+- **Languages:**
   
-- **Web Technologies:** React, Node.js, Express.js, RESTful APIs, MongoDB, SQL.
+JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+Kotlin ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  
+- **Web Technologies:**
+  
+ React ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+ Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+ Express.js ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+ RESTful APIs ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat)
+ MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+ SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- **Android Development:** Android Studio, Kotlin, Java, SQLite.
+- **Android Development:**
+  
+ Android Studio ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+ Kotlin ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+ Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+ SQLite ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-- **Desktop Development:** JavaFX, Electron, PyQt.
+- **Desktop Development:**
+  
+ JavaFX ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat&logo=java&logoColor=white)
+ Electron ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+ PyQt ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=python&logoColor=white)
 
 - **Version Control:** Git, GitHub.
+
+
 
 ## 🌟 Achievements
 
